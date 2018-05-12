@@ -1,0 +1,30 @@
+_repo: Songs-and-Satires_36149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Masters, Edgar Lee
+    aliases:
+    - Masters, E. L. (Edgar Lee)
+    - Ford, Webster
+    birthdate: 1868
+    deathdate: 1950
+    gutenberg_agent_id: '584'
+    url: http://www.gutenberg.org/2009/agents/584
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Lee_Masters
+description: ''
+gutenberg_issued: '2011-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: Songs and Satires
+url: http://www.gutenberg.org/ebooks/36149
