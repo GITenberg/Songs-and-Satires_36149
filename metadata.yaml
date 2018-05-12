@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/584
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Lee_Masters
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36149#Songs-and-Satires
 gutenberg_issued: '2011-05-18'
 gutenberg_type: Text
 identifiers:
